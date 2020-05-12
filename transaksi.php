@@ -1,4 +1,4 @@
-  <?php
+    <?php
 include "config/koneksi.php";
 include "fungsi.php";
 if(isset($_POST['simpan'])){
